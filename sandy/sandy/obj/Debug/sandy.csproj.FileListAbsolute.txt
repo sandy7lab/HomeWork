@@ -1,0 +1,7 @@
+C:\Users\3msil\source\repos\sandy\sandy\bin\Debug\sandy.exe.config
+C:\Users\3msil\source\repos\sandy\sandy\bin\Debug\sandy.exe
+C:\Users\3msil\source\repos\sandy\sandy\bin\Debug\sandy.pdb
+C:\Users\3msil\source\repos\sandy\sandy\obj\Debug\sandy.csproj.AssemblyReference.cache
+C:\Users\3msil\source\repos\sandy\sandy\obj\Debug\sandy.csproj.CoreCompileInputs.cache
+C:\Users\3msil\source\repos\sandy\sandy\obj\Debug\sandy.exe
+C:\Users\3msil\source\repos\sandy\sandy\obj\Debug\sandy.pdb
